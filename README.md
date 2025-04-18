@@ -6,7 +6,7 @@ By integrating various sensors to measure critical parameters such as:
 -  Air Quality Sensor
 -  Soil Moisture Sensor
   
-The system continuously assesses the plant environment and contorls actuators to maintain ideal conditions such as:-
+The system continuously assesses the plant environment and controls actuators to maintain ideal conditions such as:-
 - Water pump
 - Humidifier
 - Fan (optional)
